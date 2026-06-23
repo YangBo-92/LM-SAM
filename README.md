@@ -83,6 +83,17 @@ EPOCH_NUMBER = 200
 lr = 0.0001
 image_size = 256
 ```
+## 📦 Model Weights
+
+Pre-trained LM‑SAM checkpoints can be downloaded from Baidu Netdisk:
+
+**🔗 Baidu Netdisk Download**  
+**Link:** https://pan.baidu.com/s/1Uw4OVaK1oO1OUSvq9UxuZw  
+**Extraction code:** 2tmq
+
+```
+Download and place them under `weight/` directory:
+```
 
 ## 🚀 Quick Start
 
